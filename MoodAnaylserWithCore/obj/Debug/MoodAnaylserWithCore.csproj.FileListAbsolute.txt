@@ -1,0 +1,7 @@
+C:\Users\praka\OneDrive\Desktop\moodAnalyseer\MoodAnaylserWithCore\MoodAnaylserWithCore\bin\Debug\MoodAnaylserWithCore.exe.config
+C:\Users\praka\OneDrive\Desktop\moodAnalyseer\MoodAnaylserWithCore\MoodAnaylserWithCore\bin\Debug\MoodAnaylserWithCore.exe
+C:\Users\praka\OneDrive\Desktop\moodAnalyseer\MoodAnaylserWithCore\MoodAnaylserWithCore\bin\Debug\MoodAnaylserWithCore.pdb
+C:\Users\praka\OneDrive\Desktop\moodAnalyseer\MoodAnaylserWithCore\MoodAnaylserWithCore\obj\Debug\MoodAnaylserWithCore.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\moodAnalyseer\MoodAnaylserWithCore\MoodAnaylserWithCore\obj\Debug\MoodAnaylserWithCore.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\moodAnalyseer\MoodAnaylserWithCore\MoodAnaylserWithCore\obj\Debug\MoodAnaylserWithCore.exe
+C:\Users\praka\OneDrive\Desktop\moodAnalyseer\MoodAnaylserWithCore\MoodAnaylserWithCore\obj\Debug\MoodAnaylserWithCore.pdb
